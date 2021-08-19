@@ -4,7 +4,7 @@ Criei esse repositório no intuito de compartilhar meus estudos e projetos de Da
 
 ## Projetos
 
-* Projeto Airbnb - Cidade do Cabo, Áfica do Sul:
+* [Projeto Airbnb - Cidade do Cabo, Áfica do Sul](https://github.com/JefersonSMAlmeida/data_science/blob/main/Cidade_do_Cabo_Analisando_os_Dados_do_Airbnb.ipynb)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
