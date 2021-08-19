@@ -16,4 +16,5 @@ Sou Coordenador de Produtos Multilataforma, atuando como Marketing e BI no aplic
 
 ## Links
 [Linkedin](https://www.linkedin.com/in/jeferson-dos-santos-de-melo-almeida-192101a3/)
+
 [Medium](https://medium.com/@jefersonalmeida_81476)
