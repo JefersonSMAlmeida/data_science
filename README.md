@@ -5,6 +5,7 @@ Criei esse repositório no intuito de compartilhar meus estudos e projetos de Da
 ## Projetos
 
 * [Projeto Airbnb - Cidade do Cabo, Áfica do Sul](https://github.com/JefersonSMAlmeida/data_science/blob/main/Cidade_do_Cabo_Analisando_os_Dados_do_Airbnb.ipynb)
+* [Panorama do COVID-19 no mundo](https://github.com/JefersonSMAlmeida/portifolio_data_science/blob/main/Panorama_do_COVID_19_no_Brasil_e_no_Mundo.ipynb)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
