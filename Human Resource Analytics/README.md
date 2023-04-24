@@ -71,7 +71,6 @@ Na etapa de Análise Exploratória de Dados foram descobertos os vários insight
 
  ![image](https://user-images.githubusercontent.com/14170425/234136420-cfd776b9-790f-4bfb-a95e-4edaa164f662.png)
  
- 
 
 Através da análise foi possível desenvolver 3 grupos distintos para agrupar colaboradores que deixaram a empresa por comportamentos
 similares que são:
@@ -95,7 +94,7 @@ Finalizando o projeto, criei uma aplicação web via Streamlit, ligado aos dados
 
 ---
 
-### Chat GPT
+### ChatGPT
 
 Para levar um pouco mais de informação, aproveitei a onda do momento e fiz a inclusão do ChatGPT no app para realizar uma análise dentro dos parâmetros e trazer insights sobre os resultados obtidos de cada nova pesquisa.
 
