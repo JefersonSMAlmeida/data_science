@@ -101,7 +101,7 @@ st.markdown("Insight - ChatGPT")
 
 #chamada com o ChatGTP - OpenAI
 
-openai.api_key = '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'
+openai.api_key = 'PUT YOUR KEY'
 
 completion = openai.ChatCompletion.create(
   model="gpt-3.5-turbo",
